@@ -1,0 +1,6 @@
+This is the example text file for word count example in the Hadoop Ecosystem.
+But we are using it in a different way. We are also taking into consideration stop words like a , the , is , are , of etc
+We will pass another file with the list of stop words. These stop words will be removed in Mapper and will not be counted by the Reducer.
+This example is written for the examples article of java code geek
+The quick brown fox jumps over the lazy dog.
+The above line is one of the most famous lines which contains all the english language alphabets.
